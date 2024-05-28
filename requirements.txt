@@ -57,6 +57,6 @@ urllib3==2.2.1
 watchdog==4.0.0
 google-cloud-texttospeech==2.15.0 
 streamlit-webrtc
-pip install google-auth-oauth==1.2.0
+google-auth-oauth==1.2.0
 google-generativeai==0.5.4
 
